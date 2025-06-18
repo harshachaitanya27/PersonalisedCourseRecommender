@@ -1,0 +1,271 @@
+,user_id,user_name,course_id,rating,timestamp,job_role
+0,user_1,Jacqueline Brown,IBM IT Scrum Master,2.0,1618823431.0,Software Engineer
+1,user_1,Jacqueline Brown,ESG Risks and Opportunities,1.0,1654871733.0,Software Engineer
+2,user_1,Jacqueline Brown,Customer Service Fundamentals,5.0,1615293566.0,Software Engineer
+3,user_2,Zachary Willis,Introduction to Finance and Accounting,2.0,1625072808.0,Business Analyst
+4,user_2,Zachary Willis,Meta Social Media Marketing,5.0,1649859993.0,Business Analyst
+5,user_2,Zachary Willis,Data Science: Foundations using R,1.0,1647123718.0,Business Analyst
+6,user_3,Jennifer Bailey,,,,Freelancer
+7,user_4,Karen Ruiz,Data Science Graduate Certificate,4.0,1649004150.0,Freelancer
+8,user_4,Karen Ruiz,Linear Circuits 1: DC Analysis,3.0,1663779158.0,Freelancer
+9,user_4,Karen Ruiz,Health Informatics,1.0,1660381900.0,Freelancer
+10,user_5,Daniel Hall,Healthier Materials and Sustainable Building,2.0,1660696423.0,Software Engineer
+11,user_5,Daniel Hall,Digital Transformation Using AI/ML with Google Cloud,3.0,1616318415.0,Software Engineer
+12,user_5,Daniel Hall,Marketing Analytics,1.0,1634955689.0,Software Engineer
+13,user_5,Daniel Hall,Google Data Analytics Capstone: Complete a Case Study,1.0,1633549898.0,Software Engineer
+14,user_6,Jonathan Wilson,Music Business,1.0,1671353394.0,Consultant
+15,user_6,Jonathan Wilson,Connect and Protect: Networks and Network Security,4.0,1614747391.0,Consultant
+16,user_6,Jonathan Wilson,Data Science: Statistics and Machine Learning,5.0,1629134061.0,Consultant
+17,user_6,Jonathan Wilson,Master of Advanced Study in Engineering,5.0,1668880860.0,Consultant
+18,user_7,Amy Long,Human Anatomy and Medical Terminology Fundamentals,3.0,1614813948.0,Data Scientist
+19,user_7,Amy Long,Security in Google Cloud,2.0,1667607934.0,Data Scientist
+20,user_7,Amy Long,SAP Technology Consultant,1.0,1634969039.0,Data Scientist
+21,user_7,Amy Long,Convolutional Neural Networks in TensorFlow,3.0,1639887050.0,Data Scientist
+22,user_8,Sarah Atkinson,Write Your First Novel,3.0,1623518978.0,Machine Learning Engineer
+23,user_8,Sarah Atkinson,Six Sigma Black Belt,3.0,1656557563.0,Machine Learning Engineer
+24,user_8,Sarah Atkinson,Using Python to Access Web Data,1.0,1650337289.0,Machine Learning Engineer
+25,user_9,Kara Todd,Postgraduate Certificate of Public Health,4.0,1634924023.0,Software Engineer
+26,user_9,Kara Todd,Customer Service Fundamentals,3.0,1671561150.0,Software Engineer
+27,user_9,Kara Todd,IBM z/OS Mainframe Practitioner,5.0,1624197324.0,Software Engineer
+28,user_10,Mr. Bradley Smith,Preparing for Google Cloud Certification: Machine Learning Engineer,3.0,1636380913.0,Business Analyst
+29,user_10,Mr. Bradley Smith,Learn Spanish: Basic Spanish Vocabulary,3.0,1613901042.0,Business Analyst
+30,user_10,Mr. Bradley Smith,Introduction to Finance and Accounting,2.0,1670738727.0,Business Analyst
+31,user_11,Nichole Dean,Marketing Mix Implementation,2.0,1627235007.0,Software Engineer
+32,user_11,Nichole Dean,Healthcare IT Support,2.0,1626010091.0,Software Engineer
+33,user_11,Nichole Dean,Excel for Beginners: Pivot Tables,5.0,1645629353.0,Software Engineer
+34,user_11,Nichole Dean,Data Literacy,3.0,1659590448.0,Software Engineer
+35,user_11,Nichole Dean,Цифровий маркетинг і електронна комерція від Google,5.0,1638210907.0,Software Engineer
+36,user_12,Yolanda Martinez,Diversity and Inclusion in Education,5.0,1642578487.0,Business Analyst
+37,user_12,Yolanda Martinez,Analyze Datasets and Train ML Models using AutoML,1.0,1660178882.0,Business Analyst
+38,user_12,Yolanda Martinez,Practical Guide to Trading,1.0,1667246838.0,Business Analyst
+39,user_12,Yolanda Martinez,Managing Emotions in Times of Uncertainty & Stress,1.0,1619716207.0,Business Analyst
+40,user_13,Matthew Gross,"Creativity, Innovation and Transformation",4.0,1649448595.0,Data Scientist
+41,user_13,Matthew Gross,Introduction to Psychology,4.0,1644967462.0,Data Scientist
+42,user_13,Matthew Gross,Security and Privacy for Big Data - Part 2,3.0,1646585561.0,Data Scientist
+43,user_14,Rebecca Miller,Applied Data Science,3.0,1616945339.0,Consultant
+44,user_14,Rebecca Miller,UI / UX Design,3.0,1638635802.0,Consultant
+45,user_14,Rebecca Miller,"M.A. in International Relations, Security, and Strategy",2.0,1639908082.0,Consultant
+46,user_14,Rebecca Miller,Introduction to Public Relations and the Media,1.0,1657917977.0,Consultant
+47,user_15,Chase Riley,Culture-Driven Team Building,1.0,1667878712.0,Freelancer
+48,user_15,Chase Riley,Maestría en Inteligencia Artificial,3.0,1665942673.0,Freelancer
+49,user_15,Chase Riley,Bayesian Statistics,5.0,1650326499.0,Freelancer
+50,user_15,Chase Riley,Certificado en Gestión y Políticas en Salud Pública,2.0,1619716069.0,Freelancer
+51,user_16,William English,Data Visualization with Tableau,5.0,1671098255.0,Machine Learning Engineer
+52,user_16,William English,Graduate Certificate in Accounting Data Analytics,1.0,1649653690.0,Machine Learning Engineer
+53,user_17,April Mason,Prompt Engineering,3.0,1668429226.0,
+54,user_17,April Mason,Foundations of Data Science,3.0,1625528572.0,
+55,user_18,Kathleen Jennings,,,,Machine Learning Engineer
+56,user_19,Jennifer Reid,"HTML, CSS, and Javascript for Web Developers",5.0,1660853478.0,Student
+57,user_19,Jennifer Reid,Genomic Data Science,2.0,1618075405.0,Student
+58,user_19,Jennifer Reid,High Stakes Leadership: Leading in Times of Crisis,4.0,1646355894.0,Student
+59,user_19,Jennifer Reid,Preparing for Google Cloud Certification: Cloud Network Engineer,2.0,1627246849.0,Student
+60,user_20,Emily Cruz,Developing AI Applications with Python and Flask,2.0,1657304395.0,Business Analyst
+61,user_20,Emily Cruz,"Strategic Leadership: Impact, Change, and Decision-Making",3.0,1636235119.0,Business Analyst
+62,user_20,Emily Cruz,Graduate Certificate in Accounting Data Analytics,3.0,1638859598.0,Business Analyst
+63,user_21,Stephanie Hickman,Refugees in the 21st Century,1.0,1632147738.0,Consultant
+64,user_21,Stephanie Hickman,Google Project Management,1.0,1648939929.0,Consultant
+65,user_21,Stephanie Hickman,Medical Terminology,5.0,1624901938.0,Consultant
+66,user_21,Stephanie Hickman,Financial Management,5.0,1624237738.0,Consultant
+67,user_22,Mary Fritz,,,,Software Engineer
+68,user_23,Jerry Flores,AWS Cloud Technology Consultant,3.0,1614214356.0,Business Analyst
+69,user_23,Jerry Flores,Managerial Accounting Fundamentals,5.0,1625431420.0,Business Analyst
+70,user_23,Jerry Flores,Google Marketing Digital e E-Commerce,3.0,1654353538.0,Business Analyst
+71,user_23,Jerry Flores,Finance & Quantitative Modeling for Analysts,4.0,1623836388.0,Business Analyst
+72,user_24,Thomas Nicholson,Introduction to Git and GitHub,2.0,1615789297.0,Software Engineer
+73,user_24,Thomas Nicholson,Optical Engineering,1.0,1653682783.0,Software Engineer
+74,user_24,Thomas Nicholson,Solar Energy Basics,4.0,1633235707.0,Software Engineer
+75,user_25,Cynthia Kirby,Foundations of Business Strategy,1.0,1613526847.0,Business Analyst
+76,user_25,Cynthia Kirby,Improve Your English Communication Skills,4.0,1658328786.0,Business Analyst
+77,user_26,Brenda Weaver,Programming for Everybody (Getting Started with Python),2.0,1622223903.0,Student
+78,user_26,Brenda Weaver,Using Public Policy for Social Change,5.0,1639565145.0,Student
+79,user_27,Joseph Blankenship,,,,Software Engineer
+80,user_28,Grant Black,,,,Business Analyst
+81,user_29,Deborah Velez,Microsoft Azure Data Engineering Associate (DP-203),5.0,1616029743.0,Business Analyst
+82,user_29,Deborah Velez,FinTech: Finance Industry Transformation and Regulation,1.0,1653223902.0,Business Analyst
+83,user_30,Carly Castro,Meta Front-End Developer,4.0,1641762616.0,Consultant
+84,user_30,Carly Castro,Data Science: Foundations using R,2.0,1667484905.0,Consultant
+85,user_30,Carly Castro,"Make the Sale: Build, Launch, and Manage E-commerce Stores",4.0,1670021115.0,Consultant
+86,user_30,Carly Castro,Good with Words: Writing and Editing,1.0,1620507810.0,Consultant
+87,user_30,Carly Castro,Google IT Support (Deutsch),4.0,1609603844.0,Consultant
+88,user_31,Anthony Hart,Organizational Change and Culture for Adopting Google Cloud,4.0,1619847439.0,Consultant
+89,user_31,Anthony Hart,Cybersecurity Compliance Framework & System Administration,2.0,1629370925.0,Consultant
+90,user_31,Anthony Hart,Introduction to Computers and Operating Systems and Security,2.0,1613383947.0,Consultant
+91,user_31,Anthony Hart,Developing AI Applications with Python and Flask,5.0,1658833686.0,Consultant
+92,user_31,Anthony Hart,Entrepreneurship and Strategic Innovation Graduate Certificate,5.0,1613549993.0,Consultant
+93,user_32,Russell West,Google Cloud Database Engineer,5.0,1620024331.0,Consultant
+94,user_32,Russell West,Neural Networks and Deep Learning,1.0,1643538993.0,Consultant
+95,user_32,Russell West,FinTech Law and Policy,1.0,1666591831.0,Consultant
+96,user_32,Russell West,Introducción a la Inteligencia Artificial,2.0,1614057588.0,Consultant
+97,user_33,Kathleen Smith,Viral Marketing and How to Craft Contagious Content,5.0,1625982432.0,Business Analyst
+98,user_33,Kathleen Smith,"Data Engineering, Big Data and ML on Google Cloud 日本語版",5.0,1649356705.0,Business Analyst
+99,user_33,Kathleen Smith,Stanford Introduction to Food and Health,1.0,1651025189.0,Business Analyst
+100,user_34,Timothy Vincent,,,,
+101,user_35,Christine Harris,Master of Engineering in Engineering Management,2.0,1654403749.0,Machine Learning Engineer
+102,user_35,Christine Harris,SAS Visual Business Analytics,3.0,1625477143.0,Machine Learning Engineer
+103,user_35,Christine Harris,Reporting extra-financier et stratégie RSE,3.0,1636019938.0,Machine Learning Engineer
+104,user_36,Colton Kirby,,,,Student
+105,user_37,Alyssa Perez,The Nuts and Bolts of Machine Learning,1.0,1640214220.0,Consultant
+106,user_37,Alyssa Perez,SAS Visual Business Analytics,5.0,1647241063.0,Consultant
+107,user_37,Alyssa Perez,IBM Data Analyst,1.0,1614375643.0,Consultant
+108,user_38,Taylor Young,Metodologías ágiles de desarrollo de software Programa de Certificado MasterTrack®,3.0,1668572994.0,Data Scientist
+109,user_38,Taylor Young,Organizational Change and Culture for Adopting Google Cloud,1.0,1668466027.0,Data Scientist
+110,user_38,Taylor Young,Capstone: Applying Project Management in the Real World,2.0,1634257743.0,Data Scientist
+111,user_39,Ricardo Casey,English for Common Interactions in the Workplace: Basic Level,5.0,1656672965.0,Unemployed
+112,user_40,Patricia Brock,Master of Science in Accounting,5.0,1629550167.0,Data Scientist
+113,user_40,Patricia Brock,IBM Data Engineering,1.0,1668389303.0,Data Scientist
+114,user_41,Adrian Wall,,,,Software Engineer
+115,user_42,Casey Hayes,,,,Machine Learning Engineer
+116,user_43,Steven Camacho,,,,
+117,user_44,Lynn Davies,Fundraising and Development,3.0,1623122384.0,Teacher
+118,user_44,Lynn Davies,Science of Exercise,3.0,1643376627.0,Teacher
+119,user_44,Lynn Davies,Digital Product Management: Modern Fundamentals,4.0,1626311661.0,Teacher
+120,user_45,Joshua Li,Leading the Modern Day Business,1.0,1631843800.0,Software Engineer
+121,user_45,Joshua Li,AI for Good,2.0,1652215154.0,Software Engineer
+122,user_45,Joshua Li,"Python Project: pillow, tesseract, and opencv",3.0,1620302782.0,Software Engineer
+123,user_45,Joshua Li,Construction Project Management,4.0,1646481846.0,Software Engineer
+124,user_45,Joshua Li,Ciberseguridad de Google,4.0,1647101022.0,Software Engineer
+125,user_46,Kristina Robbins,,,,Freelancer
+126,user_47,Daniel Gibson,,,,Teacher
+127,user_48,Cynthia Bush,Diversity and inclusion in the workplace,5.0,1646538531.0,Business Analyst
+128,user_48,Cynthia Bush,Trust Based Leadership University Certificate,2.0,1638301698.0,Business Analyst
+129,user_48,Cynthia Bush,Meta iOS Developer,2.0,1612266287.0,Business Analyst
+130,user_48,Cynthia Bush,Linear Algebra from Elementary to Advanced,3.0,1633930548.0,Business Analyst
+131,user_49,William Saunders,Project Initiation: Starting a Successful Project,1.0,1633194171.0,Business Analyst
+132,user_49,William Saunders,Excel/VBA for Creative Problem Solving,5.0,1668792475.0,Business Analyst
+133,user_49,William Saunders,Design and Interpretation of Clinical Trials,4.0,1651111088.0,Business Analyst
+134,user_49,William Saunders,Blockchain Revolution,2.0,1671586158.0,Business Analyst
+135,user_50,Caroline Johnson,Global Procurement and Sourcing,3.0,1661964268.0,Software Engineer
+136,user_50,Caroline Johnson,International Women's Health and Human Rights,4.0,1663296288.0,Software Engineer
+137,user_50,Caroline Johnson,Gestion de projet de Google,2.0,1627364228.0,Software Engineer
+138,user_50,Caroline Johnson,AI Foundations for Everyone,2.0,1662299008.0,Software Engineer
+139,user_50,Caroline Johnson,Software Testing and Automation,1.0,1635131140.0,Software Engineer
+140,user_51,Heidi White,Medical Billing and Coding Essentials,3.0,1629940212.0,Business Analyst
+141,user_51,Heidi White,Machine Learning Data Lifecycle in Production,2.0,1624419346.0,Business Analyst
+142,user_51,Heidi White,Transforming the Fashion Business,1.0,1653753277.0,Business Analyst
+143,user_51,Heidi White,Conflict Management,2.0,1636199799.0,Business Analyst
+144,user_52,Ryan Williams,Security in Google Cloud,3.0,1652508310.0,Machine Learning Engineer
+145,user_52,Ryan Williams,Programming with JavaScript,5.0,1636281162.0,Machine Learning Engineer
+146,user_53,Laura Fowler,Master of Advanced Study in Engineering,1.0,1668316251.0,Project Manager
+147,user_53,Laura Fowler,Data Collection and Processing with Python,3.0,1621442683.0,Project Manager
+148,user_53,Laura Fowler,Mathematics for Machine Learning and Data Science,5.0,1627274346.0,Project Manager
+149,user_54,Mrs. Hannah Smith DDS,,,,Machine Learning Engineer
+150,user_55,Angelica Martinez,Fundamentals of Music Theory,5.0,1643780220.0,Consultant
+151,user_55,Angelica Martinez,Improving Communication Skills,1.0,1635309227.0,Consultant
+152,user_55,Angelica Martinez,"Sleep: Neurobiology, Medicine, and Society",5.0,1622215170.0,Consultant
+153,user_56,Mrs. Yvette Santos PhD,"Sleep: Neurobiology, Medicine, and Society",1.0,1644350463.0,Unemployed
+154,user_57,Wayne Ward,Graduate Certificate in Taxation,3.0,1651278451.0,Software Engineer
+155,user_57,Wayne Ward,Google Project Management (PT),3.0,1653978379.0,Software Engineer
+156,user_57,Wayne Ward,International Business Essentials,1.0,1657761090.0,Software Engineer
+157,user_57,Wayne Ward,Introduction to Logic and Critical Thinking,3.0,1643491615.0,Software Engineer
+158,user_57,Wayne Ward,Networking in Google Cloud,3.0,1654213625.0,Software Engineer
+159,user_58,Chad Wells,Deep Neural Networks with PyTorch,5.0,1618001339.0,Project Manager
+160,user_58,Chad Wells,Programming with Google Go,2.0,1637674875.0,Project Manager
+161,user_59,Theresa Garcia,An Introduction to Accessibility and Inclusive Design,4.0,1646230643.0,Data Scientist
+162,user_59,Theresa Garcia,Salesforce Sales Development Representative,1.0,1629851902.0,Data Scientist
+163,user_59,Theresa Garcia,AI for Medical Diagnosis,3.0,1623564321.0,Data Scientist
+164,user_60,Tiffany Carter,Terrorism and Counterterrorism: Comparing Theory and Practice,4.0,1639132041.0,Software Engineer
+165,user_60,Tiffany Carter,Managerial Economics and Business Analysis,2.0,1643763506.0,Software Engineer
+166,user_61,Joshua Simpson,Blockchain,3.0,1644050598.0,Software Engineer
+167,user_61,Joshua Simpson,Generative Adversarial Networks (GANs),5.0,1631953303.0,Software Engineer
+168,user_62,Karl Ortiz,,,,Business Analyst
+169,user_63,Helen Thomas,Viral Marketing and How to Craft Contagious Content,1.0,1612560550.0,Project Manager
+170,user_63,Helen Thomas,Introduction to Python Programming,2.0,1641345060.0,Project Manager
+171,user_63,Helen Thomas,Financial Management,5.0,1666484131.0,Project Manager
+172,user_63,Helen Thomas,International Humanitarian Law in Theory and Practice,1.0,1640021661.0,Project Manager
+173,user_63,Helen Thomas,Understanding the Brain: The Neurobiology of Everyday Life,4.0,1668926841.0,Project Manager
+174,user_64,Kyle Mendoza,Web Applications for Everybody,4.0,1625832718.0,Data Scientist
+175,user_64,Kyle Mendoza,Machine Learning,2.0,1653486507.0,Data Scientist
+176,user_64,Kyle Mendoza,Spreadsheets for Beginners using Google Sheets,1.0,1669364586.0,Data Scientist
+177,user_65,William Alexander,Excel Basics for Data Analysis,5.0,1640634615.0,Student
+178,user_65,William Alexander,Weight Management: Beyond Balancing Calories,1.0,1646866069.0,Student
+179,user_65,William Alexander,Understanding Clinical Research: Behind the Statistics,2.0,1671029570.0,Student
+180,user_65,William Alexander,Innovative Teaching with ChatGPT,1.0,1640091834.0,Student
+181,user_66,Michelle Beck DDS,,,,Data Scientist
+182,user_67,Lindsey Marquez,M.A. Public Policy,4.0,1650573601.0,Student
+183,user_67,Lindsey Marquez,Information​ ​Systems,5.0,1638097287.0,Student
+184,user_68,Rhonda Davis,Graduate Certificate in Digital Marketing,4.0,1626853250.0,Software Engineer
+185,user_68,Rhonda Davis,Accounting Data Analytics,2.0,1665821444.0,Software Engineer
+186,user_68,Rhonda Davis,Medical Neuroscience,3.0,1660852086.0,Software Engineer
+187,user_68,Rhonda Davis,Advertising with Meta,5.0,1641979955.0,Software Engineer
+188,user_69,Nathan Washington,Robotic Process Automation (RPA),3.0,1625195797.0,Data Scientist
+189,user_69,Nathan Washington,Introduction to Forensic Science,3.0,1631997546.0,Data Scientist
+190,user_69,Nathan Washington,ChatGPT Advanced Data Analysis,3.0,1669389216.0,Data Scientist
+191,user_70,Jeffrey Brown,Managing Emotions in Times of Uncertainty & Stress,4.0,1656029383.0,Student
+192,user_70,Jeffrey Brown,Branding: The Creative Journey,2.0,1656866186.0,Student
+193,user_70,Jeffrey Brown,Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course),2.0,1613769525.0,Student
+194,user_71,Jennifer Butler,American Contract Law I,4.0,1637361336.0,Project Manager
+195,user_71,Jennifer Butler,CPA Pathways Graduate Certificate,1.0,1623339620.0,Project Manager
+196,user_72,Todd Sanchez,Whole genome sequencing of bacterial genomes - tools and applications,1.0,1633065333.0,Business Analyst
+197,user_72,Todd Sanchez,Microsoft Power BI Data Analyst,3.0,1660024059.0,Business Analyst
+198,user_72,Todd Sanchez,"Introduction to Financial Analysis - The ""Why?""",4.0,1666733122.0,Business Analyst
+199,user_72,Todd Sanchez,FinTech Law and Policy,4.0,1645578570.0,Business Analyst
+200,user_73,Jacob Harding,Managerial Economics & Business Analysis Graduate Certificate,3.0,1638707657.0,Data Scientist
+201,user_73,Jacob Harding,Health Informatics,4.0,1611407022.0,Data Scientist
+202,user_73,Jacob Harding,GenAI for Everyone,4.0,1632016471.0,Data Scientist
+203,user_73,Jacob Harding,Practical Guide to Trading,4.0,1658058189.0,Data Scientist
+204,user_74,Jose Dillon,,,,Data Scientist
+205,user_75,Brandon Mclaughlin,Accelerated Computer Science Fundamentals,1.0,1670322165.0,Data Scientist
+206,user_75,Brandon Mclaughlin,Postgraduate Certificate of Public Health,4.0,1649180451.0,Data Scientist
+207,user_76,Allen Williams,IT Fundamentals for Cybersecurity,2.0,1667632609.0,Data Scientist
+208,user_76,Allen Williams,Certified in Cybersecurity,4.0,1621654828.0,Data Scientist
+209,user_76,Allen Williams,Teach English Now! Foundational Principles,1.0,1626917994.0,Data Scientist
+210,user_77,James Meyer,"Strategic Leadership: Impact, Change, and Decision-Making",3.0,1632108478.0,Data Scientist
+211,user_77,James Meyer,Cybersecurity Compliance Framework & System Administration,4.0,1628132685.0,Data Scientist
+212,user_78,Maria Francis,Battery Technologies,1.0,1659725367.0,Teacher
+213,user_78,Maria Francis,Introduction to Corporate Finance,5.0,1612954605.0,Teacher
+214,user_78,Maria Francis,AI Product Management,3.0,1624506494.0,Teacher
+215,user_78,Maria Francis,Medical Billing and Coding Essentials,1.0,1661886862.0,Teacher
+216,user_79,Alexa Riley,Ask Questions to Make Data-Driven Decisions,5.0,1619685406.0,Business Analyst
+217,user_79,Alexa Riley,Prompt Engineering for ChatGPT,2.0,1617929746.0,Business Analyst
+218,user_79,Alexa Riley,Child Nutrition and Cooking,4.0,1654385822.0,Business Analyst
+219,user_79,Alexa Riley,Transforming the Fashion Business,1.0,1647306557.0,Business Analyst
+220,user_79,Alexa Riley,IBM Data Warehouse Engineer,2.0,1640667102.0,Business Analyst
+221,user_80,Tammy Thomas,Data Science with Databricks for Data Analysts,2.0,1630332668.0,Business Analyst
+222,user_80,Tammy Thomas,Dynamic Public Speaking,1.0,1648294075.0,Business Analyst
+223,user_80,Tammy Thomas,UI / UX Design,1.0,1671795762.0,Business Analyst
+224,user_81,Rachel Waters,AI Strategy and Governance,2.0,1614559237.0,Project Manager
+225,user_81,Rachel Waters,From Data to Insights with Google Cloud,5.0,1655805548.0,Project Manager
+226,user_82,Tiffany Terrell,Optical Engineering,5.0,1661980969.0,Software Engineer
+227,user_82,Tiffany Terrell,Tools for Data Science,1.0,1632759650.0,Software Engineer
+228,user_82,Tiffany Terrell,Advanced Embedded Linux Development,5.0,1638207161.0,Software Engineer
+229,user_82,Tiffany Terrell,Google Project Management,3.0,1614086808.0,Software Engineer
+230,user_83,Maria Hubbard,Sales Operations/Management,4.0,1616541793.0,Data Scientist
+231,user_83,Maria Hubbard,Excel Skills for Business,4.0,1633765227.0,Data Scientist
+232,user_83,Maria Hubbard,Computational Neuroscience,4.0,1656925879.0,Data Scientist
+233,user_84,Lauren Vance,,,,Machine Learning Engineer
+234,user_85,Mark Grant,,,,Student
+235,user_86,David Ford,The Science of Well-Being for Teens,4.0,1638690109.0,Business Analyst
+236,user_86,David Ford,Graduate Certificate in Taxation,5.0,1627470919.0,Business Analyst
+237,user_86,David Ford,Diversité et inclusion sur le lieu de travail,3.0,1666616702.0,Business Analyst
+238,user_87,Jennifer Chaney,U.S. Federal Taxation,3.0,1668624467.0,Machine Learning Engineer
+239,user_88,Karen Wright,Flores Master of Business Administration,3.0,1611385224.0,Student
+240,user_88,Karen Wright,An Introduction to Accessibility and Inclusive Design,4.0,1666565678.0,Student
+241,user_89,Kimberly Harrison,Positive Psychology,3.0,1663000823.0,Data Scientist
+242,user_89,Kimberly Harrison,Fundamentals of Graphic Design,3.0,1632298953.0,Data Scientist
+243,user_90,Sarah Lopez,Natural Language Processing in TensorFlow,5.0,1610140429.0,
+244,user_91,Ronald Jones,Talent Acquisition,4.0,1642247104.0,Data Scientist
+245,user_91,Ronald Jones,Genomic Data Science,5.0,1660338768.0,Data Scientist
+246,user_91,Ronald Jones,Learn English: Beginning Grammar,2.0,1655805208.0,Data Scientist
+247,user_92,Tyler Clark,Professional Selling: 3 Steps to High-Performance,1.0,1615703904.0,Teacher
+248,user_92,Tyler Clark,Fundamentals of Social Media Advertising,3.0,1624330282.0,Teacher
+249,user_93,Mark Reilly,Value Chain Management,5.0,1634223743.0,Data Scientist
+250,user_93,Mark Reilly,Leading: Human Resource Management and Leadership,4.0,1646602141.0,Data Scientist
+251,user_94,Megan Valenzuela,"Spark, Hadoop, and Snowflake for Data Engineering",3.0,1656626996.0,Unemployed
+252,user_94,Megan Valenzuela,Value Chain Management Graduate Certificate,4.0,1627640093.0,Unemployed
+253,user_94,Megan Valenzuela,American Contract Law I,3.0,1626330615.0,Unemployed
+254,user_95,Brent Hood,Customer Analytics,3.0,1617482382.0,Software Engineer
+255,user_96,Alyssa Delgado,Probabilistic Graphical Models,3.0,1658085276.0,Business Analyst
+256,user_96,Alyssa Delgado,Supply Chain Analytics,5.0,1660475888.0,Business Analyst
+257,user_96,Alyssa Delgado,Market Research,5.0,1649509148.0,Business Analyst
+258,user_96,Alyssa Delgado,Introduction to Industrial Bioprocess Development,3.0,1616205392.0,Business Analyst
+259,user_97,Bryan Deleon,Microeconomics: The Power of Markets,3.0,1610408680.0,Business Analyst
+260,user_97,Bryan Deleon,Game Design: Art and Concepts,5.0,1617954038.0,Business Analyst
+261,user_97,Bryan Deleon,Understanding Einstein: The Special Theory of Relativity,3.0,1612513706.0,Business Analyst
+262,user_97,Bryan Deleon,Software Testing and Automation,1.0,1646594491.0,Business Analyst
+263,user_98,Lisa Knapp,IT Security: Defense against the digital dark arts,4.0,1616343740.0,Machine Learning Engineer
+264,user_99,Andrea Johnson,Sports Performance Analytics,3.0,1621831636.0,Business Analyst
+265,user_99,Andrea Johnson,Machine Learning for All,1.0,1626402737.0,Business Analyst
+266,user_99,Andrea Johnson,EDIVET: Do you have what it takes to be a veterinarian?,4.0,1617115458.0,Business Analyst
+267,user_99,Andrea Johnson,Image Processing for Engineering and Science,1.0,1636350221.0,Business Analyst
+268,user_100,Amanda Gates,Leadership Skills,2.0,1663894023.0,Project Manager
+269,user_100,Amanda Gates,Introduction to Financial Accounting,5.0,1629849256.0,Project Manager
